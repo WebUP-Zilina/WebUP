@@ -20,6 +20,9 @@ Usually at
 [![GitHub Repo stars](https://img.shields.io/badge/WebUP%20on-Linkedin-0a66c2?logo=Linkedin)](https://www.linkedin.com/company/webup-meetup-%C5%BEilina)
 [![GitHub Repo stars](https://img.shields.io/badge/WebUP%20on-YouTube-FF0000?logo=youtube)](https://www.youtube.com/@webupzilina)
 [![GitHub Repo stars](https://img.shields.io/badge/WebUP%20on-Meetup-f64060?logo=meetup)](https://www.meetup.com/WebUP-Web-Developers-In-Zilina/)
+[![GitHub Repo stars](https://img.shields.io/badge/WebUP%20on-Google%20Calendar-4285F4?logo=google-calendar)](https://calendar.google.com/calendar/u/0?cid=d2VidXAubWVldHVwQGdtYWlsLmNvbQ)
+[![GitHub Repo stars](https://img.shields.io/badge/WebUP%20on-vyvojari.dev%20RSS-0288cc?logo=rss)](https://vyvojari.dev/c/comunities/webup/24.rss)
+
 
 [![GitHub Repo stars](https://img.shields.io/badge/VYVOJARI.dev-0288cc)](https://vyvojari.dev)
 
